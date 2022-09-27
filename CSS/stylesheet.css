@@ -1,16 +1,18 @@
+
 * {
   background-color: skyblue;
 }
 h1 {
-  color: rgb(23, 102, 133);
+  color: rgb(39, 102, 128);
+  
 }
-aside{
-    text-align: right;
+aside {
+  text-align: right;
 }
-section{
-    text-align:justify;
-    color: black;
+section {
+  text-align: left;
+  color: black;
 }
-article{
-    text-align: left;
+article {
+  text-align: left;
 }
