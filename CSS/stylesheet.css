@@ -5,8 +5,9 @@ body {
 h1 {
   color: #122E3A;
   font-size: 45px;
+}
+#aboutme{
   font-family: Montserrat,sans-serif;
-  
 }
 aside {
   text-align: right;
