@@ -16,6 +16,10 @@ section {
   text-align: left;
   color: black;
 }
+nav{
+  background-color: lightblue;
+  text-align: center;
+}
 article {
   text-align: left;
 }
