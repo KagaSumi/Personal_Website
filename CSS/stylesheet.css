@@ -37,6 +37,5 @@ nav ul li{
   grid-template-rows: 1fr;
   grid-auto-columns: 1fr;
   grid-auto-rows: 1fr;
-  column-gap: 20px;
-
+  column-gap: 40px;
 }
