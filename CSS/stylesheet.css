@@ -15,15 +15,24 @@ footer{
   text-align: center;
 }
 h1 {
-  color: #122E3A;
+
   font-size: 45px;
 }
 section {
   text-align: left;
   color: black;
 }
-nav{
+nav ul{
   text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+nav ul{
+  list-style-type: none;
+  justify-content: center;
+}
+nav ul li{
+  padding: 10px;
 }
   article {
   text-align: left;
