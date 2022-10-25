@@ -11,7 +11,9 @@ header h1{
   color:#334259;
 }
 footer{
-  background-color: #A6CAD4}
+  background-color: #A6CAD4;
+  text-align: center;
+}
 h1 {
   color: #122E3A;
   font-size: 45px;
