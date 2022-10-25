@@ -31,6 +31,9 @@ nav ul{
 nav ul li{
   padding: 10px;
 }
+nav a {
+  text-align: center;
+}
 .index-content{
   display: grid;
   grid-template-columns: 2fr 1fr;
