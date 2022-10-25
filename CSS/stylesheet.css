@@ -1,25 +1,41 @@
 
 body {
-  background-color: #87ceeb;
+  background-color: #EDDDD0;
+}
+header{
+  background-color: #A6CAD4;
+}
+header h1{
+  font-family: Montserrat,sans-serif;
+  text-align: center;
+  color:#334259;
+}
+footer{
+  background-color: #A6CAD4;
+  text-align: center;
 }
 h1 {
-  color: #122E3A;
   font-size: 45px;
-}
-#aboutme{
-  font-family: Montserrat,sans-serif;
-}
-aside {
-  text-align: right;
 }
 section {
   text-align: left;
   color: black;
 }
-nav{
-  background-color: lightblue;
+nav ul{
   text-align: center;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: center;
 }
-article {
-  text-align: left;
+nav ul li{
+  padding: 10px;
+}
+.index-content{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: 1fr;
+  grid-auto-columns: 1fr;
+  grid-auto-rows: 1fr;
+  column-gap: 40px;
 }
