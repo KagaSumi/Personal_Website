@@ -1,24 +1,26 @@
 
 body {
-  background-color: #87ceeb;
+  background-color: #EDDDD0;
 }
-h1 {
-  color: #122E3A;
-  font-size: 45px;
+header{
+  background-color: #A6CAD4;
 }
 header h1{
   font-family: Montserrat,sans-serif;
   text-align: center;
+  color:#334259;
 }
-aside {
-  text-align: right;
+footer{
+  background-color: #A6CAD4}
+h1 {
+  color: #122E3A;
+  font-size: 45px;
 }
 section {
   text-align: left;
   color: black;
 }
 nav{
-  background-color: lightblue;
   text-align: center;
 }
   article {
