@@ -27,8 +27,11 @@ section {
 nav ul{
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;;
   align-items: center;
+}
+nav ul li{
+  padding:5px;
 }
 
 article ul li{
