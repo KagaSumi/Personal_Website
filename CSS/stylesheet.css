@@ -33,7 +33,9 @@ nav ul{
 nav ul li{
   padding:5px;
 }
-
+article ul{
+  padding:0px;
+}
 article ul li{
   border-top: black solid 1px;
 }
